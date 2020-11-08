@@ -31,27 +31,27 @@
     transform: rotate(360deg);
   }
 }
-.mainbody{
+.mainbody {
   margin-top: 70px;
 }
-.to-do{
-  display:flex;
-  flex-direction:column;
+.to-do {
+  display: flex;
+  flex-direction: column;
   height: 100px;
   padding-left: 20px;
   border-radius: 20px;
-  box-shadow: 0px -1px 4px 3px rgba(153,153,153,1);
+  box-shadow: 0px -1px 4px 3px rgba(153, 153, 153, 1);
   margin-top: 30px;
   margin-bottom: 30px;
 }
-.to-do-title{
+.to-do-title {
   font-size: 30px;
   margin-top: 10px;
 }
-.to-do-description{
+.to-do-description {
   font-size: 16px;
 }
-.todolisthead{
+.todolisthead {
   margin-left: 45%;
   font-size: 20px;
   font-family: Impact, Charcoal, sans-serif;
