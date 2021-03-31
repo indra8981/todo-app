@@ -1,0 +1,7 @@
+item no,cost in Rs.,volume in cm3,class label
+1,10,6,inexpensive
+2,15,6,inexpensive
+3,25,6,inexpensive
+4,50,10,expensive
+5,45,10,expensive
+6,47,12,expensive
